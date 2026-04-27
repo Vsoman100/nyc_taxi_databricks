@@ -4,7 +4,7 @@ Built a Bronze, Silver, Gold data pipeline in Databricks using PySpark and Delta
 
 ## Overview
 
-This project processes raw NYC taxi trip data into structured tables that can be used for analysis. The pipeline follows a standard lakehouse pattern:
+Processes raw NYC taxi trip data into structured, queryable tables for downstream analytics. The pipeline follows a standard lakehouse pattern:
 
 Raw data → Bronze → Silver → Gold
 
